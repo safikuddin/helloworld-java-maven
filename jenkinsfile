@@ -1,5 +1,5 @@
 node {
-   def mvnHome
+   def mvnHome-TEST
    stage('Preparation') { // for display purposes
       // Get some code from a GitHub repository
       git 'https://github.com/scmgalaxy/helloworld-java-maven'
