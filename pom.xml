@@ -42,12 +42,12 @@
     <repository>
         <id>deployment</id>
         <name>release softx</name>
-        <url>http://35.200.179.137:8081/nexus/content/repositories/Mytestrepo/</url>
+        <url>http://35.244.25.253:8081/nexus/content/repositories/Mytestrepo/</url>
     </repository>
     <snapshotRepository>
         <id>deployment</id>
         <name>snapshot softx</name>
-        <url>http://35.200.179.137:8081/nexus/content/repositories/Mytestrepo2/</url>
+        <url>http://35.244.25.253:8081/nexus/content/repositories/Mytestrepo2/</url>
     </snapshotRepository>
 </distributionManagement>
 
